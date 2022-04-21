@@ -23045,7 +23045,7 @@ awQ:function awQ(a,b){this.a=a
 this.b=b},
 awS:function awS(a){this.a=a},
 axt:function axt(a){this.a=a},
-axs:function axs(a,b,c,d,e,f,g,h,i,j,k){var _=this
+axs:function axs(a,b,c,d,e,f,g,h,i,j,k,l){var _=this
 _.a=a
 _.b=b
 _.c=c
@@ -23056,7 +23056,8 @@ _.r=g
 _.x=h
 _.y=i
 _.z=j
-_.Q=k},
+_.Q=k
+_.ch=l},
 axq:function axq(a,b){this.a=a
 this.b=b},
 axr:function axr(a){this.a=a},
@@ -83906,7 +83907,7 @@ j=$.ka=new A.m0(new A.y(g),$.oO())}else j=i
 j=k.e=j.mR(k.f)}else j=i
 j=new A.oz(k,j.A(0,"cStocks"))
 j.gw()
-j.M(0).C(0,new A.axs(m,q,[],l,d,c,b,a,a0,a0-e,new A.FS(f,h)),p)}}},
+j.M(0).C(0,new A.axs(m,q,[],l,e,d,c,b,a,a0,a0-e,new A.FS(f,h)),p)}}},
 $S:2}
 A.axs.prototype={
 $1(a){var s,r,q,p,o,n=this,m=null
@@ -83920,21 +83921,22 @@ r=s.b
 s=s.a
 o.c=A.c(r.h(0,"truckCount"),s)
 o.d=A.c(r.h(0,"port"),s)
-o.e=A.c(r.h(0,"cft"),s)
-o.f=A.c(r.h(0,"cft"),s)
-o.r=B.d.j(n.e)
-o.x=B.d.j(n.f)
-o.y=B.d.j(n.r)
-o.z=B.d.j(n.x)
-o.Q=B.d.j(n.y)
-o.ch=B.d.j(n.z)
+q=n.e
+o.e=B.d.j(q)
+o.f=B.d.j(q)
+o.r=B.d.j(n.f)
+o.x=B.d.j(n.r)
+o.y=B.d.j(n.x)
+o.z=B.d.j(n.y)
+o.Q=B.d.j(n.z)
+o.ch=B.d.j(n.Q)
 o.cx=A.c(r.h(0,"remarks"),s)
 o.cy=A.c(r.h(0,"sellerName"),s)
 o.db=A.c(r.h(0,"sellerContact"),s)
 o.dx=A.c(r.h(0,"year"),s)
 o.fr=o.dy="0"
 o.fx=A.c(r.h(0,"truckNumber"),s)
-s=n.Q
+s=n.ch
 o.fy=B.c.gE(s.a.c.a)
 s.bp(0,o.b1())
 s=n.b
