@@ -4,7 +4,7 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "f3cf11fab8067a18ac287bebd03dba46",
-"main.dart.js": "35f13596e95d409aa53d4fe6710b312e",
+"main.dart.js": "8e4672ed26d65754bac41b9ff59a0818",
 "assets/AssetManifest.json": "977075b3cb87d7a9b701b6d7f1c4415b",
 "assets/assets/images/logo.png": "37ba7708959a9dfb11825a1a1383196e",
 "assets/assets/images/stone.jpg": "108c99b9855837a8194d530f4d9c7dda",
@@ -24,8 +24,8 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "manifest.json": "88e579204353a3be0e006fce77e3d29f",
-"index.html": "3f114592e190d493d83171f3a1a808ed",
-"/": "3f114592e190d493d83171f3a1a808ed",
+"index.html": "2c592f1fff681fd13a1201ca2e544df4",
+"/": "2c592f1fff681fd13a1201ca2e544df4",
 "icon.ico": "cc8d9f8ce3b7568bff6351046a6b8ea6",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
