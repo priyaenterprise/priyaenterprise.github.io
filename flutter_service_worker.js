@@ -4,7 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "f3cf11fab8067a18ac287bebd03dba46",
-"main.dart.js": "a48dd2cfaca43c6aff572c354aafdfcd",
+"main.dart.js": "2e0dc2aaa4248816f48de1ada28bca8b",
+"flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "assets/AssetManifest.json": "aa05649c4fd524ef2d86ec01072b9c47",
 "assets/assets/images/logo.png": "37ba7708959a9dfb11825a1a1383196e",
 "assets/assets/images/stone.jpg": "108c99b9855837a8194d530f4d9c7dda",
@@ -16,17 +17,17 @@ const RESOURCES = {
 "assets/assets/images/crusher_two.jpg": "1ee66ff4f0d834bbe48de622d78dd67a",
 "assets/assets/images/employee.jpg": "5109afc6aa76d801b6daa68d0c333d13",
 "assets/assets/images/profit.png": "0d0563c108533fd954ac76af02492b92",
-"assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
+"assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/NOTICES": "8b33a14d4625545d80f4695dde5b1272",
+"assets/NOTICES": "ef6ca3da30c9b7c5f0c145cb1f45bea6",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "manifest.json": "88e579204353a3be0e006fce77e3d29f",
-"index.html": "c670abd56cc88ba140771fec8216a466",
-"/": "c670abd56cc88ba140771fec8216a466",
+"index.html": "a34158e877e9fc3b708c626edd18f31f",
+"/": "a34158e877e9fc3b708c626edd18f31f",
 "icon.ico": "cc8d9f8ce3b7568bff6351046a6b8ea6",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -37,8 +38,7 @@ const RESOURCES = {
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = [
-  "/",
-"main.dart.js",
+  "main.dart.js",
 "index.html",
 "assets/NOTICES",
 "assets/AssetManifest.json",
