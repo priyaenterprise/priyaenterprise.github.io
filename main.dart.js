@@ -78884,7 +78884,7 @@ $1(a){return new A.br(null)},
 $S:5}
 A.nq.prototype={
 a0(){var s=$.aC(),r=t.s
-return new A.Sn(new A.b3(null,t.m),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),A.a(["Cash","Bank"],r),A.a(["Shutarkandi","Tamabil","Borchora","Baghil","Bhairavghat"],r),A.a([],r),A.a([],r),B.B)}}
+return new A.Sn(new A.b3(null,t.m),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),A.a(["Cash","Bank"],r),A.a(["Shutarkandi","Tamabil","Borchora","Baghil","Bhairavghat","Charagao"],r),A.a([],r),A.a([],r),B.B)}}
 A.Sn.prototype={
 a3(){var s,r,q=this
 q.aa()
@@ -79658,7 +79658,7 @@ $1(a){return new A.hs(this.a,null)},
 $S:47}
 A.pG.prototype={
 a0(){var s=$.aC(),r=t.s
-return new A.Sp(new A.b3(null,t.m),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),A.a(["Cash","Bank"],r),A.a(["Shutarkandi","Tamabil","Borchora","Baghil","Bhairavghat"],r),A.a([],r),A.a([],r),B.B)}}
+return new A.Sp(new A.b3(null,t.m),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),A.a(["Cash","Bank"],r),A.a(["Shutarkandi","Tamabil","Borchora","Baghil","Bhairavghat","Charagao"],r),A.a([],r),A.a([],r),B.B)}}
 A.Sp.prototype={
 a3(){var s,r,q=this
 q.aa()
@@ -80512,7 +80512,7 @@ p.push(k)}}}A.aak(new A.MH(B.e.k(o.d),B.l.k(o.e),"sale","0",q),!0)},
 $S:2}
 A.pH.prototype={
 a0(){var s=t.s
-return new A.Sr(new A.b3(null,t.m),A.a(["Cash","Bank"],s),A.a(["Shutarkandi","Tamabil","Borchora","Baghil","Bhairavghat"],s),A.a([],s),A.a([],s),B.B)}}
+return new A.Sr(new A.b3(null,t.m),A.a(["Cash","Bank"],s),A.a(["Shutarkandi","Tamabil","Borchora","Baghil","Bhairavghat","Charagao"],s),A.a([],s),A.a([],s),B.B)}}
 A.Sr.prototype={
 a3(){var s,r,q,p=this
 p.aa()
@@ -87089,7 +87089,7 @@ s.y=1},
 $S:0}
 A.qq.prototype={
 a0(){var s=$.aC(),r=t.s
-return new A.Uk(new A.b3(null,t.m),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),A.a(["Cash","Bank"],r),A.a(["Shutarkandi","Tamabil","Borchora","Baghil","Bhairavghat"],r),B.B)}}
+return new A.Uk(new A.b3(null,t.m),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),A.a(["Cash","Bank"],r),A.a(["Shutarkandi","Tamabil","Borchora","Baghil","Bhairavghat","Charagao"],r),B.B)}}
 A.Uk.prototype={
 a3(){var s,r=this
 r.aa()
@@ -87899,7 +87899,7 @@ A.aUy(new A.a77(s,r,q,l,k,j,o==null?"0":o,p))},
 $S:2}
 A.qr.prototype={
 a0(){var s=$.aC(),r=t.s
-return new A.Um(new A.b3(null,t.m),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),A.a(["Cash","Bank"],r),A.a(["Shutarkandi","Tamabil","Borchora","Baghil","Bhairavghat"],r),B.B)}}
+return new A.Um(new A.b3(null,t.m),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),A.a(["Cash","Bank"],r),A.a(["Shutarkandi","Tamabil","Borchora","Baghil","Bhairavghat","Charagao"],r),B.B)}}
 A.Um.prototype={
 a3(){var s,r,q=this
 q.aa()
@@ -88510,7 +88510,7 @@ $1(a){return new A.hl(this.a,null)},
 $S:44}
 A.qC.prototype={
 a0(){var s=$.aC(),r=t.s
-return new A.UC(new A.b3(null,t.m),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),A.a(["Cash","Bank"],r),A.a(["Shutarkandi","Tamabil","Borchora","Baghil","Bhairavghat"],r),A.a([],r),A.a([],r),B.B)}}
+return new A.UC(new A.b3(null,t.m),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),A.a(["Cash","Bank"],r),A.a(["Shutarkandi","Tamabil","Borchora","Baghil","Bhairavghat","Charagao"],r),A.a([],r),A.a([],r),B.B)}}
 A.UC.prototype={
 a3(){var s,r,q=this
 q.aa()
@@ -89421,7 +89421,7 @@ s.CW=1},
 $S:0}
 A.qS.prototype={
 a0(){var s=$.aC(),r=t.s
-return new A.Vb(new A.b3(null,t.m),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),A.a(["Cash","Bank"],r),A.a(["Shutarkandi","Tamabil","Borchora","Baghil","Bhairavghat"],r),A.a([],r),A.a([],r),B.B)}}
+return new A.Vb(new A.b3(null,t.m),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),A.a(["Cash","Bank"],r),A.a(["Shutarkandi","Tamabil","Borchora","Baghil","Bhairavghat","Charagao"],r),A.a([],r),A.a([],r),B.B)}}
 A.Vb.prototype={
 a3(){var s,r,q=this
 q.aa()
@@ -89728,7 +89728,7 @@ s.cx=1},
 $S:0}
 A.qT.prototype={
 a0(){var s=$.aC()
-return new A.Vc(new A.b3(null,t.m),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),A.a(["Shutarkandi","Tamabil","Borchora","Baghil","Bhairavghat"],t.s),B.B)}}
+return new A.Vc(new A.b3(null,t.m),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),A.a(["Shutarkandi","Tamabil","Borchora","Baghil","Bhairavghat","Charagao"],t.s),B.B)}}
 A.Vc.prototype={
 a3(){var s,r=this
 r.aa()
@@ -90198,7 +90198,7 @@ j.hz(0,i,null)
 l.gc5().a.b0(0)}}},
 $S:2}
 A.qV.prototype={
-a0(){return new A.Vf(new A.b3(null,t.m),A.a(["Shutarkandi","Tamabil","Borchora","Baghil","Bhairavghat"],t.s),B.B)}}
+a0(){return new A.Vf(new A.b3(null,t.m),A.a(["Shutarkandi","Tamabil","Borchora","Baghil","Bhairavghat","Charagao"],t.s),B.B)}}
 A.Vf.prototype={
 a3(){var s,r,q=this
 q.aa()
@@ -90465,7 +90465,7 @@ $1(a){return new A.qZ(null)},
 $S:534}
 A.qX.prototype={
 a0(){var s=$.aC(),r=t.s
-return new A.Vh(new A.b3(null,t.m),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),A.a(["Cash","Bank"],r),A.a([],r),A.a([],r),A.a(["Shutarkandi","Tamabil","Borchora","Baghil","Bhairavghat"],r),B.B)}}
+return new A.Vh(new A.b3(null,t.m),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),A.a(["Cash","Bank"],r),A.a([],r),A.a([],r),A.a(["Shutarkandi","Tamabil","Borchora","Baghil","Bhairavghat","Charagao"],r),B.B)}}
 A.Vh.prototype={
 a3(){var s,r,q=this
 q.aa()
@@ -90806,7 +90806,7 @@ s.fx=1},
 $S:0}
 A.qY.prototype={
 a0(){var s=$.aC(),r=t.s
-return new A.Vi(new A.b3(null,t.m),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),A.a(["Cash","Bank"],r),A.a(["Shutarkandi","Tamabil","Borchora","Baghil","Bhairavghat"],r),B.B)}}
+return new A.Vi(new A.b3(null,t.m),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),A.a(["Cash","Bank"],r),A.a(["Shutarkandi","Tamabil","Borchora","Baghil","Bhairavghat","Charagao"],r),B.B)}}
 A.Vi.prototype={
 a3(){var s,r=this
 r.aa()
@@ -91386,7 +91386,7 @@ l.gc5().a.b0(0)}}},
 $S:2}
 A.r_.prototype={
 a0(){var s=t.s
-return new A.Vl(new A.b3(null,t.m),A.a(["Shutarkandi","Tamabil","Borchora","Baghil","Bhairavghat"],s),A.a(["Cash","Bank"],s),B.B)}}
+return new A.Vl(new A.b3(null,t.m),A.a(["Shutarkandi","Tamabil","Borchora","Baghil","Bhairavghat","Charagao"],s),A.a(["Cash","Bank"],s),B.B)}}
 A.Vl.prototype={
 a3(){var s,r,q=this
 q.aa()
@@ -92429,7 +92429,7 @@ s.e=s.d=0},
 $S:0}
 A.rC.prototype={
 a0(){var s=$.aC()
-return new A.X6(new A.b3(null,t.m),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),A.a(["Shutarkandi","Tamabil","Borchora","Baghil","Bhairavghat"],t.s),B.B)}}
+return new A.X6(new A.b3(null,t.m),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),new A.P(B.p,s),A.a(["Shutarkandi","Tamabil","Borchora","Baghil","Bhairavghat","Charagao"],t.s),B.B)}}
 A.X6.prototype={
 a3(){var s,r=this
 r.aa()
@@ -92977,7 +92977,7 @@ o=o.a
 A.aak(new A.MH(s,r,q,o==null?"0":o,p),!1)},
 $S:2}
 A.rD.prototype={
-a0(){return new A.X8(new A.b3(null,t.m),A.a(["Shutarkandi","Tamabil","Borchora","Baghil","Bhairavghat"],t.s),B.B)}}
+a0(){return new A.X8(new A.b3(null,t.m),A.a(["Shutarkandi","Tamabil","Borchora","Baghil","Bhairavghat","Charagao"],t.s),B.B)}}
 A.X8.prototype={
 a3(){var s,r,q=this
 q.aa()
